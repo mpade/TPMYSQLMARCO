@@ -1,0 +1,23 @@
+html{
+    background-image: url(../../image/PizzaBack.jpg);
+    width: 100%;
+    height: 100%;
+}
+.Texte h3{ 
+    text-align: center;
+    color: yellow;
+    float: center;
+    padding-bottom: 15px;
+}
+.bouton .bouton{    /* Correspond au bouton */
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.bouton {border-radius: 50%;}
